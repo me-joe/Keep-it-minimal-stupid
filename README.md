@@ -6,7 +6,7 @@ Maybe if you are looking for a minimal and no-nonsense Linux distribution, this 
 
 Why did I build this? Yeah, because in some cases i need a very minimal, simple distribution for my machine that is still useful for my daily use.
 
-> without stupid bloatware.
+> without stupid bloatware and unnecessary gimmick.
 
 The image size is about 1-2GB.
 
